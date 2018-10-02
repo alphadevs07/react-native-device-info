@@ -17,6 +17,8 @@ android {
        warning 'InvalidPackage'
     }
 }
+{
+}
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
